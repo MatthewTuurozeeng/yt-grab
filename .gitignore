@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+
+# Editor settings
+.vscode/
+.idea/
+
+# Downloaded media and partial downloads (in case of a local output folder)
+*.mp4
+*.mp3
+*.m4a
+*.webm
+*.part
+*.ytdl
